@@ -1,0 +1,529 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{NataliaVazquezWeb2007}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7cc45cac4c4ac42f214d6ea243c20532}{%
+           family={Arroyo-Vázquez},
+           familyi={A\bibinithyphendelim V\bibinitperiod},
+           given={Natalia},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Asociación Educación y Bibliotecas Tilde (Madrid, España)}%
+      }
+      \strng{namehash}{7cc45cac4c4ac42f214d6ea243c20532}
+      \strng{fullhash}{7cc45cac4c4ac42f214d6ea243c20532}
+      \strng{bibnamehash}{7cc45cac4c4ac42f214d6ea243c20532}
+      \strng{authorbibnamehash}{7cc45cac4c4ac42f214d6ea243c20532}
+      \strng{authornamehash}{7cc45cac4c4ac42f214d6ea243c20532}
+      \strng{authorfullhash}{7cc45cac4c4ac42f214d6ea243c20532}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educación y biblioteca}
+      \field{title}{Educación y biblioteca, n. 161}
+      \field{year}{2007}
+      \field{pages}{69\bibrangedash 74}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb https://gredos.usal.es/jspui/handle/10366/108883
+      \endverb
+      \verb{url}
+      \verb https://gredos.usal.es/jspui/handle/10366/108883
+      \endverb
+    \endentry
+    \entry{pascual199012}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e3f1e44dda32d57b14c18a958d4a05ab}{%
+           family={Pascual-Leone},
+           familyi={P\bibinithyphendelim L\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{e3f1e44dda32d57b14c18a958d4a05ab}
+      \strng{fullhash}{e3f1e44dda32d57b14c18a958d4a05ab}
+      \strng{bibnamehash}{e3f1e44dda32d57b14c18a958d4a05ab}
+      \strng{authorbibnamehash}{e3f1e44dda32d57b14c18a958d4a05ab}
+      \strng{authornamehash}{e3f1e44dda32d57b14c18a958d4a05ab}
+      \strng{authorfullhash}{e3f1e44dda32d57b14c18a958d4a05ab}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wisdom: Its nature, origins, and development}
+      \field{title}{12 An essay on wisdom: toward organismic processes that make it possible}
+      \field{year}{1990}
+      \field{pages}{244}
+      \range{pages}{1}
+    \endentry
+    \entry{mycite2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dcabf552916cab05977fcc3b535d7bdb}{%
+           family={Paterno-Materno},
+           familyi={P\bibinithyphendelim M\bibinitperiod},
+           given={Nombres},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{dcabf552916cab05977fcc3b535d7bdb}
+      \strng{fullhash}{dcabf552916cab05977fcc3b535d7bdb}
+      \strng{bibnamehash}{dcabf552916cab05977fcc3b535d7bdb}
+      \strng{authorbibnamehash}{dcabf552916cab05977fcc3b535d7bdb}
+      \strng{authornamehash}{dcabf552916cab05977fcc3b535d7bdb}
+      \strng{authorfullhash}{dcabf552916cab05977fcc3b535d7bdb}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nombre del documento a citar}
+      \field{year}{2016}
+    \endentry
+    \entry{Chavez-Campos2016}{report}{}
+      \name{author}{1}{}{%
+        {{hash=82e8770fa37b40e965debf09aec8be6a}{%
+           family={Chávez-Campos},
+           familyi={C\bibinithyphendelim C\bibinitperiod},
+           given={Gerardo\bibnamedelima Marx},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ITM}%
+      }
+      \strng{namehash}{82e8770fa37b40e965debf09aec8be6a}
+      \strng{fullhash}{82e8770fa37b40e965debf09aec8be6a}
+      \strng{bibnamehash}{82e8770fa37b40e965debf09aec8be6a}
+      \strng{authorbibnamehash}{82e8770fa37b40e965debf09aec8be6a}
+      \strng{authornamehash}{82e8770fa37b40e965debf09aec8be6a}
+      \strng{authorfullhash}{82e8770fa37b40e965debf09aec8be6a}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Desarrollo de un protocolo de investigación}
+      \field{year}{2016}
+    \endentry
+    \entry{webdev:2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=148165901f60c7f5b9b4d018d15ce1a4}{%
+           family={Arias},
+           familyi={A\bibinitperiod},
+           given={Herbert},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{148165901f60c7f5b9b4d018d15ce1a4}
+      \strng{fullhash}{148165901f60c7f5b9b4d018d15ce1a4}
+      \strng{bibnamehash}{148165901f60c7f5b9b4d018d15ce1a4}
+      \strng{authorbibnamehash}{148165901f60c7f5b9b4d018d15ce1a4}
+      \strng{authornamehash}{148165901f60c7f5b9b4d018d15ce1a4}
+      \strng{authorfullhash}{148165901f60c7f5b9b4d018d15ce1a4}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The 2018 Web Developer Roadmap - An ilustrated map to becoming a Fronted or Backend Developer with links to courses.}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d
+      \endverb
+      \verb{url}
+      \verb https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d
+      \endverb
+    \endentry
+    \entry{SergioLujan2001}{book}{}
+      \name{author}{1}{}{%
+        {{hash=baad011ae5b033f77424aec9ca38f72b}{%
+           family={Luján-Mora},
+           familyi={L\bibinithyphendelim M\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{baad011ae5b033f77424aec9ca38f72b}
+      \strng{fullhash}{baad011ae5b033f77424aec9ca38f72b}
+      \strng{bibnamehash}{baad011ae5b033f77424aec9ca38f72b}
+      \strng{authorbibnamehash}{baad011ae5b033f77424aec9ca38f72b}
+      \strng{authornamehash}{baad011ae5b033f77424aec9ca38f72b}
+      \strng{authorfullhash}{baad011ae5b033f77424aec9ca38f72b}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Programación en Internet: clientes web}
+      \field{year}{2001}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/10045/16994
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/10045/16994
+      \endverb
+    \endentry
+    \entry{WebDev:2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=35f91589c6d4f4d9f2882e3cbb6ee7ef}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Kamran},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{35f91589c6d4f4d9f2882e3cbb6ee7ef}
+      \strng{fullhash}{35f91589c6d4f4d9f2882e3cbb6ee7ef}
+      \strng{bibnamehash}{35f91589c6d4f4d9f2882e3cbb6ee7ef}
+      \strng{authorbibnamehash}{35f91589c6d4f4d9f2882e3cbb6ee7ef}
+      \strng{authornamehash}{35f91589c6d4f4d9f2882e3cbb6ee7ef}
+      \strng{authorfullhash}{35f91589c6d4f4d9f2882e3cbb6ee7ef}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Web developer Roadmap - 2018}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://github.com/xguestone/developer-roadmap
+      \endverb
+      \verb{url}
+      \verb https://github.com/xguestone/developer-roadmap
+      \endverb
+    \endentry
+    \entry{ScottBenGit2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6d9d5d0486f3effa0eebab9c419acd37}{%
+           family={Scott\bibnamedelima Chacon},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Ben\bibnamedelima Straub},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d9d5d0486f3effa0eebab9c419acd37}
+      \strng{fullhash}{6d9d5d0486f3effa0eebab9c419acd37}
+      \strng{bibnamehash}{6d9d5d0486f3effa0eebab9c419acd37}
+      \strng{authorbibnamehash}{6d9d5d0486f3effa0eebab9c419acd37}
+      \strng{authornamehash}{6d9d5d0486f3effa0eebab9c419acd37}
+      \strng{authorfullhash}{6d9d5d0486f3effa0eebab9c419acd37}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pro Git Second Edition}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://git-scm.com/book/en/v2
+      \endverb
+      \verb{url}
+      \verb https://git-scm.com/book/en/v2
+      \endverb
+    \endentry
+    \entry{Ssh:2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=059acf69bcde2a9d26d6664191b774a4}{%
+           family={SSH\bibnamedelimb Communications\bibnamedelima Security},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Inc.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{059acf69bcde2a9d26d6664191b774a4}
+      \strng{fullhash}{059acf69bcde2a9d26d6664191b774a4}
+      \strng{bibnamehash}{059acf69bcde2a9d26d6664191b774a4}
+      \strng{authorbibnamehash}{059acf69bcde2a9d26d6664191b774a4}
+      \strng{authornamehash}{059acf69bcde2a9d26d6664191b774a4}
+      \strng{authorfullhash}{059acf69bcde2a9d26d6664191b774a4}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SSH (Secure shell)}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.ssh.com/ssh/
+      \endverb
+      \verb{url}
+      \verb https://www.ssh.com/ssh/
+      \endverb
+    \endentry
+    \entry{HTTP:2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0ce13b156d7b91de682fcac6f7fa8c7a}{%
+           family={R.\bibnamedelimi Fielding},
+           familyi={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={J.\bibnamedelimi Gettys},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{0ce13b156d7b91de682fcac6f7fa8c7a}
+      \strng{fullhash}{0ce13b156d7b91de682fcac6f7fa8c7a}
+      \strng{bibnamehash}{0ce13b156d7b91de682fcac6f7fa8c7a}
+      \strng{authorbibnamehash}{0ce13b156d7b91de682fcac6f7fa8c7a}
+      \strng{authornamehash}{0ce13b156d7b91de682fcac6f7fa8c7a}
+      \strng{authorfullhash}{0ce13b156d7b91de682fcac6f7fa8c7a}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hypertext Transfer Protocol -- HTTP/1.1}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.w3.org/Protocols/rfc2616/rfc2616.html
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/Protocols/rfc2616/rfc2616.html
+      \endverb
+    \endentry
+    \entry{HTTPS:2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=eb7662493801cb4bd28a5c6e6d01b75d}{%
+           family={United\bibnamedelimb States\bibnamedelima government},
+           familyi={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim g\bibinitperiod},
+           given={An},
+           giveni={A\bibinitperiod},
+           prefix={official\bibnamedelimb website\bibnamedelimb of\bibnamedelima the},
+           prefixi={o\bibinitperiod\bibinitdelim w\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim t\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb7662493801cb4bd28a5c6e6d01b75d}
+      \strng{fullhash}{eb7662493801cb4bd28a5c6e6d01b75d}
+      \strng{bibnamehash}{eb7662493801cb4bd28a5c6e6d01b75d}
+      \strng{authorbibnamehash}{eb7662493801cb4bd28a5c6e6d01b75d}
+      \strng{authornamehash}{eb7662493801cb4bd28a5c6e6d01b75d}
+      \strng{authorfullhash}{eb7662493801cb4bd28a5c6e6d01b75d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The HTTPS - Only Standard}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://https.cio.gov/
+      \endverb
+      \verb{url}
+      \verb https://https.cio.gov/
+      \endverb
+    \endentry
+    \entry{ChrisNegusLinux2005}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b227989bae0507d91a2ed598db7fd310}{%
+           family={Negus},
+           familyi={N\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b227989bae0507d91a2ed598db7fd310}
+      \strng{fullhash}{b227989bae0507d91a2ed598db7fd310}
+      \strng{bibnamehash}{b227989bae0507d91a2ed598db7fd310}
+      \strng{authorbibnamehash}{b227989bae0507d91a2ed598db7fd310}
+      \strng{authornamehash}{b227989bae0507d91a2ed598db7fd310}
+      \strng{authorfullhash}{b227989bae0507d91a2ed598db7fd310}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Linux Bible Ninth Edition, The comprehensive, tutorial resource.}
+      \field{year}{2005}
+    \endentry
+    \entry{JoyanesProg2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5d1807ca7212045603a713fe86973914}{%
+           family={Aguilar},
+           familyi={A\bibinitperiod},
+           given={Luis\bibnamedelima Joyanes},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d1807ca7212045603a713fe86973914}
+      \strng{fullhash}{5d1807ca7212045603a713fe86973914}
+      \strng{bibnamehash}{5d1807ca7212045603a713fe86973914}
+      \strng{authorbibnamehash}{5d1807ca7212045603a713fe86973914}
+      \strng{authornamehash}{5d1807ca7212045603a713fe86973914}
+      \strng{authorfullhash}{5d1807ca7212045603a713fe86973914}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentos de Programación.}
+      \field{year}{2008}
+    \endentry
+    \entry{GuidesGitHub:2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=5d127ed73298e64f703ac9581f33428d}{%
+           family={Tom\bibnamedelima Preston-Werner},
+           familyi={T\bibinitperiod\bibinitdelim P\bibinithyphendelim W\bibinitperiod},
+           given={Chris\bibnamedelima Wanstrath},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d127ed73298e64f703ac9581f33428d}
+      \strng{fullhash}{5d127ed73298e64f703ac9581f33428d}
+      \strng{bibnamehash}{5d127ed73298e64f703ac9581f33428d}
+      \strng{authorbibnamehash}{5d127ed73298e64f703ac9581f33428d}
+      \strng{authornamehash}{5d127ed73298e64f703ac9581f33428d}
+      \strng{authorfullhash}{5d127ed73298e64f703ac9581f33428d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GitHub Guides}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://guides.github.com/
+      \endverb
+      \verb{url}
+      \verb https://guides.github.com/
+      \endverb
+    \endentry
+    \entry{HTMLw3:2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f7ff92d9412041e5d320a0a7f35dc06a}{%
+           family={Data},
+           familyi={D\bibinitperiod},
+           given={Refsnes},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{fullhash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{bibnamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{authorbibnamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{authornamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{authorfullhash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{HTML5 Tutorial}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.w3schools.com/html/
+      \endverb
+      \verb{url}
+      \verb https://www.w3schools.com/html/
+      \endverb
+    \endentry
+    \entry{PluralsightJavaScript:2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=439cdcafe6c075db688c23df3c9d23d9}{%
+           family={Jim\bibnamedelima Cooper},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Barry\bibnamedelima Luijbregts},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{439cdcafe6c075db688c23df3c9d23d9}
+      \strng{fullhash}{439cdcafe6c075db688c23df3c9d23d9}
+      \strng{bibnamehash}{439cdcafe6c075db688c23df3c9d23d9}
+      \strng{authorbibnamehash}{439cdcafe6c075db688c23df3c9d23d9}
+      \strng{authornamehash}{439cdcafe6c075db688c23df3c9d23d9}
+      \strng{authorfullhash}{439cdcafe6c075db688c23df3c9d23d9}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{JavaScript.com by Pluralsight}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.javascript.com/try
+      \endverb
+      \verb{url}
+      \verb https://www.javascript.com/try
+      \endverb
+    \endentry
+    \entry{JavaScriptw3:2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f7ff92d9412041e5d320a0a7f35dc06a}{%
+           family={Data},
+           familyi={D\bibinitperiod},
+           given={Refsnes},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{fullhash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{bibnamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{authorbibnamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{authornamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{authorfullhash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{JavaScript Tutorial}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.w3schools.com/js/default.asp
+      \endverb
+      \verb{url}
+      \verb https://www.w3schools.com/js/default.asp
+      \endverb
+    \endentry
+    \entry{PythonTuto:2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=5577f9d25d04b38dd73b2850bc8e320c}{%
+           family={Rossum},
+           familyi={R\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{5577f9d25d04b38dd73b2850bc8e320c}
+      \strng{fullhash}{5577f9d25d04b38dd73b2850bc8e320c}
+      \strng{bibnamehash}{5577f9d25d04b38dd73b2850bc8e320c}
+      \strng{authorbibnamehash}{5577f9d25d04b38dd73b2850bc8e320c}
+      \strng{authornamehash}{5577f9d25d04b38dd73b2850bc8e320c}
+      \strng{authorfullhash}{5577f9d25d04b38dd73b2850bc8e320c}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Python Tutorial}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://docs.python.org/3/tutorial/index.html
+      \endverb
+      \verb{url}
+      \verb https://docs.python.org/3/tutorial/index.html
+      \endverb
+    \endentry
+    \entry{IntroPython2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3d4982aec936bef23d1187d192a7c0eb}{%
+           family={Marzal\bibnamedelima Andrés},
+           familyi={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Gracia\bibnamedelima Pedro},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           suffix={Gracia\bibnamedelima Isabel},
+           suffixi={G\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d4982aec936bef23d1187d192a7c0eb}
+      \strng{fullhash}{3d4982aec936bef23d1187d192a7c0eb}
+      \strng{bibnamehash}{3d4982aec936bef23d1187d192a7c0eb}
+      \strng{authorbibnamehash}{3d4982aec936bef23d1187d192a7c0eb}
+      \strng{authornamehash}{3d4982aec936bef23d1187d192a7c0eb}
+      \strng{authorfullhash}{3d4982aec936bef23d1187d192a7c0eb}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introducción a la programación con Python 3}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb http://repositori.uji.es/xmlui/handle/10234/102653?locale-attribute=es
+      \endverb
+      \verb{url}
+      \verb http://repositori.uji.es/xmlui/handle/10234/102653?locale-attribute=es
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
