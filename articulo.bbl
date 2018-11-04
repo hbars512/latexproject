@@ -19,6 +19,33 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{SergioLujan2001}{book}{}
+      \name{author}{1}{}{%
+        {{hash=baad011ae5b033f77424aec9ca38f72b}{%
+           family={Luján-Mora},
+           familyi={L\bibinithyphendelim M\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{baad011ae5b033f77424aec9ca38f72b}
+      \strng{fullhash}{baad011ae5b033f77424aec9ca38f72b}
+      \strng{bibnamehash}{baad011ae5b033f77424aec9ca38f72b}
+      \strng{authorbibnamehash}{baad011ae5b033f77424aec9ca38f72b}
+      \strng{authornamehash}{baad011ae5b033f77424aec9ca38f72b}
+      \strng{authorfullhash}{baad011ae5b033f77424aec9ca38f72b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Programación en Internet: clientes web}
+      \field{year}{2001}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/10045/16994
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/10045/16994
+      \endverb
+    \endentry
     \entry{NataliaVazquezWeb2007}{article}{}
       \name{author}{1}{}{%
         {{hash=7cc45cac4c4ac42f214d6ea243c20532}{%
@@ -36,8 +63,8 @@
       \strng{authorbibnamehash}{7cc45cac4c4ac42f214d6ea243c20532}
       \strng{authornamehash}{7cc45cac4c4ac42f214d6ea243c20532}
       \strng{authorfullhash}{7cc45cac4c4ac42f214d6ea243c20532}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Educación y biblioteca}
@@ -69,8 +96,8 @@
       \strng{authorbibnamehash}{e3f1e44dda32d57b14c18a958d4a05ab}
       \strng{authornamehash}{e3f1e44dda32d57b14c18a958d4a05ab}
       \strng{authorfullhash}{e3f1e44dda32d57b14c18a958d4a05ab}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Wisdom: Its nature, origins, and development}
@@ -93,8 +120,8 @@
       \strng{authorbibnamehash}{dcabf552916cab05977fcc3b535d7bdb}
       \strng{authornamehash}{dcabf552916cab05977fcc3b535d7bdb}
       \strng{authorfullhash}{dcabf552916cab05977fcc3b535d7bdb}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Nombre del documento a citar}
@@ -117,8 +144,8 @@
       \strng{authorbibnamehash}{82e8770fa37b40e965debf09aec8be6a}
       \strng{authornamehash}{82e8770fa37b40e965debf09aec8be6a}
       \strng{authorfullhash}{82e8770fa37b40e965debf09aec8be6a}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Desarrollo de un protocolo de investigación}
@@ -138,8 +165,8 @@
       \strng{authorbibnamehash}{148165901f60c7f5b9b4d018d15ce1a4}
       \strng{authornamehash}{148165901f60c7f5b9b4d018d15ce1a4}
       \strng{authorfullhash}{148165901f60c7f5b9b4d018d15ce1a4}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The 2018 Web Developer Roadmap - An ilustrated map to becoming a Fronted or Backend Developer with links to courses.}
@@ -149,33 +176,6 @@
       \endverb
       \verb{url}
       \verb https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d
-      \endverb
-    \endentry
-    \entry{SergioLujan2001}{book}{}
-      \name{author}{1}{}{%
-        {{hash=baad011ae5b033f77424aec9ca38f72b}{%
-           family={Luján-Mora},
-           familyi={L\bibinithyphendelim M\bibinitperiod},
-           given={Sergio},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{baad011ae5b033f77424aec9ca38f72b}
-      \strng{fullhash}{baad011ae5b033f77424aec9ca38f72b}
-      \strng{bibnamehash}{baad011ae5b033f77424aec9ca38f72b}
-      \strng{authorbibnamehash}{baad011ae5b033f77424aec9ca38f72b}
-      \strng{authornamehash}{baad011ae5b033f77424aec9ca38f72b}
-      \strng{authorfullhash}{baad011ae5b033f77424aec9ca38f72b}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Programación en Internet: clientes web}
-      \field{year}{2001}
-      \verb{urlraw}
-      \verb http://hdl.handle.net/10045/16994
-      \endverb
-      \verb{url}
-      \verb http://hdl.handle.net/10045/16994
       \endverb
     \endentry
     \entry{WebDev:2018:online}{online}{}
@@ -192,8 +192,8 @@
       \strng{authorbibnamehash}{35f91589c6d4f4d9f2882e3cbb6ee7ef}
       \strng{authornamehash}{35f91589c6d4f4d9f2882e3cbb6ee7ef}
       \strng{authorfullhash}{35f91589c6d4f4d9f2882e3cbb6ee7ef}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Web developer Roadmap - 2018}
@@ -219,8 +219,8 @@
       \strng{authorbibnamehash}{6d9d5d0486f3effa0eebab9c419acd37}
       \strng{authornamehash}{6d9d5d0486f3effa0eebab9c419acd37}
       \strng{authorfullhash}{6d9d5d0486f3effa0eebab9c419acd37}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Pro Git Second Edition}
@@ -481,8 +481,8 @@
       \strng{authorbibnamehash}{5577f9d25d04b38dd73b2850bc8e320c}
       \strng{authornamehash}{5577f9d25d04b38dd73b2850bc8e320c}
       \strng{authorfullhash}{5577f9d25d04b38dd73b2850bc8e320c}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Python Tutorial}

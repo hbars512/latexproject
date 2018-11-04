@@ -193,11 +193,11 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmrc7t.tfm
 OUTPUT articulo.dvi
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT articulo.aux
 INPUT ./articulo.out
 INPUT ./articulo.out
