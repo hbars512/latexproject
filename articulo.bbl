@@ -79,6 +79,187 @@
       \verb https://gredos.usal.es/jspui/handle/10366/108883
       \endverb
     \endentry
+    \entry{IntroPython2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3d4982aec936bef23d1187d192a7c0eb}{%
+           family={Marzal\bibnamedelima Andrés},
+           familyi={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Gracia\bibnamedelima Pedro},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           suffix={Gracia\bibnamedelima Isabel},
+           suffixi={G\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d4982aec936bef23d1187d192a7c0eb}
+      \strng{fullhash}{3d4982aec936bef23d1187d192a7c0eb}
+      \strng{bibnamehash}{3d4982aec936bef23d1187d192a7c0eb}
+      \strng{authorbibnamehash}{3d4982aec936bef23d1187d192a7c0eb}
+      \strng{authornamehash}{3d4982aec936bef23d1187d192a7c0eb}
+      \strng{authorfullhash}{3d4982aec936bef23d1187d192a7c0eb}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introducción a la programación con Python 3}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb http://repositori.uji.es/xmlui/handle/10234/102653?locale-attribute=es
+      \endverb
+      \verb{url}
+      \verb http://repositori.uji.es/xmlui/handle/10234/102653?locale-attribute=es
+      \endverb
+    \endentry
+    \entry{JoyanesProg2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5d1807ca7212045603a713fe86973914}{%
+           family={Aguilar},
+           familyi={A\bibinitperiod},
+           given={Luis\bibnamedelima Joyanes},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d1807ca7212045603a713fe86973914}
+      \strng{fullhash}{5d1807ca7212045603a713fe86973914}
+      \strng{bibnamehash}{5d1807ca7212045603a713fe86973914}
+      \strng{authorbibnamehash}{5d1807ca7212045603a713fe86973914}
+      \strng{authornamehash}{5d1807ca7212045603a713fe86973914}
+      \strng{authorfullhash}{5d1807ca7212045603a713fe86973914}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentos de Programación.}
+      \field{year}{2008}
+    \endentry
+    \entry{StallmanFS2004}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e74b0d9be16013124ac2f57122ba2db8}{%
+           family={Stallman},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e74b0d9be16013124ac2f57122ba2db8}
+      \strng{fullhash}{e74b0d9be16013124ac2f57122ba2db8}
+      \strng{bibnamehash}{e74b0d9be16013124ac2f57122ba2db8}
+      \strng{authorbibnamehash}{e74b0d9be16013124ac2f57122ba2db8}
+      \strng{authornamehash}{e74b0d9be16013124ac2f57122ba2db8}
+      \strng{authorfullhash}{e74b0d9be16013124ac2f57122ba2db8}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Software libre para una sociedad libre}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb https://www.gnu.org/philosophy/fsfs/free_software.es.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.gnu.org/philosophy/fsfs/free_software.es.pdf
+      \endverb
+    \endentry
+    \entry{GutierrezFramework}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8c897e60cbe6b2a339cab8ff31989435}{%
+           family={Gutiérrez.},
+           familyi={G\bibinitperiod},
+           given={Javier\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c897e60cbe6b2a339cab8ff31989435}
+      \strng{fullhash}{8c897e60cbe6b2a339cab8ff31989435}
+      \strng{bibnamehash}{8c897e60cbe6b2a339cab8ff31989435}
+      \strng{authorbibnamehash}{8c897e60cbe6b2a339cab8ff31989435}
+      \strng{authornamehash}{8c897e60cbe6b2a339cab8ff31989435}
+      \strng{authorfullhash}{8c897e60cbe6b2a339cab8ff31989435}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué es un framework web?}
+      \field{year}{2014}
+      \field{pages}{4}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://www.lsi.us.es/~javierj/investigacion_ficheros/Framework.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.lsi.us.es/~javierj/investigacion_ficheros/Framework.pdf
+      \endverb
+    \endentry
+    \entry{LuisGitHub2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=12b079a47cacfdeb219c6d17090ce4d7}{%
+           family={González},
+           familyi={G\bibinitperiod},
+           given={Luis\bibnamedelimb José\bibnamedelima Sánchez},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{12b079a47cacfdeb219c6d17090ce4d7}
+      \strng{fullhash}{12b079a47cacfdeb219c6d17090ce4d7}
+      \strng{bibnamehash}{12b079a47cacfdeb219c6d17090ce4d7}
+      \strng{authorbibnamehash}{12b079a47cacfdeb219c6d17090ce4d7}
+      \strng{authornamehash}{12b079a47cacfdeb219c6d17090ce4d7}
+      \strng{authorfullhash}{12b079a47cacfdeb219c6d17090ce4d7}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Git y GitHub. Guía de Supervivencia.}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb http://leanpub.com/gitygithub
+      \endverb
+      \verb{url}
+      \verb http://leanpub.com/gitygithub
+      \endverb
+    \endentry
+    \entry{ScottBenGit2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6d9d5d0486f3effa0eebab9c419acd37}{%
+           family={Scott\bibnamedelima Chacon},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Ben\bibnamedelima Straub},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d9d5d0486f3effa0eebab9c419acd37}
+      \strng{fullhash}{6d9d5d0486f3effa0eebab9c419acd37}
+      \strng{bibnamehash}{6d9d5d0486f3effa0eebab9c419acd37}
+      \strng{authorbibnamehash}{6d9d5d0486f3effa0eebab9c419acd37}
+      \strng{authornamehash}{6d9d5d0486f3effa0eebab9c419acd37}
+      \strng{authorfullhash}{6d9d5d0486f3effa0eebab9c419acd37}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pro Git Second Edition}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://git-scm.com/book/en/v2
+      \endverb
+      \verb{url}
+      \verb https://git-scm.com/book/en/v2
+      \endverb
+    \endentry
+    \entry{ChrisNegusLinux2005}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b227989bae0507d91a2ed598db7fd310}{%
+           family={Negus},
+           familyi={N\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b227989bae0507d91a2ed598db7fd310}
+      \strng{fullhash}{b227989bae0507d91a2ed598db7fd310}
+      \strng{bibnamehash}{b227989bae0507d91a2ed598db7fd310}
+      \strng{authorbibnamehash}{b227989bae0507d91a2ed598db7fd310}
+      \strng{authornamehash}{b227989bae0507d91a2ed598db7fd310}
+      \strng{authorfullhash}{b227989bae0507d91a2ed598db7fd310}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Linux Bible Ninth Edition, The comprehensive, tutorial resource.}
+      \field{year}{2005}
+    \endentry
     \entry{pascual199012}{article}{}
       \name{author}{1}{}{%
         {{hash=e3f1e44dda32d57b14c18a958d4a05ab}{%
@@ -96,8 +277,8 @@
       \strng{authorbibnamehash}{e3f1e44dda32d57b14c18a958d4a05ab}
       \strng{authornamehash}{e3f1e44dda32d57b14c18a958d4a05ab}
       \strng{authorfullhash}{e3f1e44dda32d57b14c18a958d4a05ab}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Wisdom: Its nature, origins, and development}
@@ -120,8 +301,8 @@
       \strng{authorbibnamehash}{dcabf552916cab05977fcc3b535d7bdb}
       \strng{authornamehash}{dcabf552916cab05977fcc3b535d7bdb}
       \strng{authorfullhash}{dcabf552916cab05977fcc3b535d7bdb}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Nombre del documento a citar}
@@ -144,8 +325,8 @@
       \strng{authorbibnamehash}{82e8770fa37b40e965debf09aec8be6a}
       \strng{authornamehash}{82e8770fa37b40e965debf09aec8be6a}
       \strng{authorfullhash}{82e8770fa37b40e965debf09aec8be6a}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Desarrollo de un protocolo de investigación}
@@ -165,8 +346,8 @@
       \strng{authorbibnamehash}{148165901f60c7f5b9b4d018d15ce1a4}
       \strng{authornamehash}{148165901f60c7f5b9b4d018d15ce1a4}
       \strng{authorfullhash}{148165901f60c7f5b9b4d018d15ce1a4}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The 2018 Web Developer Roadmap - An ilustrated map to becoming a Fronted or Backend Developer with links to courses.}
@@ -192,8 +373,8 @@
       \strng{authorbibnamehash}{35f91589c6d4f4d9f2882e3cbb6ee7ef}
       \strng{authornamehash}{35f91589c6d4f4d9f2882e3cbb6ee7ef}
       \strng{authorfullhash}{35f91589c6d4f4d9f2882e3cbb6ee7ef}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Web developer Roadmap - 2018}
@@ -203,33 +384,6 @@
       \endverb
       \verb{url}
       \verb https://github.com/xguestone/developer-roadmap
-      \endverb
-    \endentry
-    \entry{ScottBenGit2014}{book}{}
-      \name{author}{1}{}{%
-        {{hash=6d9d5d0486f3effa0eebab9c419acd37}{%
-           family={Scott\bibnamedelima Chacon},
-           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
-           given={Ben\bibnamedelima Straub},
-           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \strng{namehash}{6d9d5d0486f3effa0eebab9c419acd37}
-      \strng{fullhash}{6d9d5d0486f3effa0eebab9c419acd37}
-      \strng{bibnamehash}{6d9d5d0486f3effa0eebab9c419acd37}
-      \strng{authorbibnamehash}{6d9d5d0486f3effa0eebab9c419acd37}
-      \strng{authornamehash}{6d9d5d0486f3effa0eebab9c419acd37}
-      \strng{authorfullhash}{6d9d5d0486f3effa0eebab9c419acd37}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Pro Git Second Edition}
-      \field{year}{2014}
-      \verb{urlraw}
-      \verb https://git-scm.com/book/en/v2
-      \endverb
-      \verb{url}
-      \verb https://git-scm.com/book/en/v2
       \endverb
     \endentry
     \entry{Ssh:2018:online}{online}{}
@@ -302,8 +456,8 @@
       \strng{authorbibnamehash}{eb7662493801cb4bd28a5c6e6d01b75d}
       \strng{authornamehash}{eb7662493801cb4bd28a5c6e6d01b75d}
       \strng{authorfullhash}{eb7662493801cb4bd28a5c6e6d01b75d}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The HTTPS - Only Standard}
@@ -314,48 +468,6 @@
       \verb{url}
       \verb https://https.cio.gov/
       \endverb
-    \endentry
-    \entry{ChrisNegusLinux2005}{book}{}
-      \name{author}{1}{}{%
-        {{hash=b227989bae0507d91a2ed598db7fd310}{%
-           family={Negus},
-           familyi={N\bibinitperiod},
-           given={Christopher},
-           giveni={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{b227989bae0507d91a2ed598db7fd310}
-      \strng{fullhash}{b227989bae0507d91a2ed598db7fd310}
-      \strng{bibnamehash}{b227989bae0507d91a2ed598db7fd310}
-      \strng{authorbibnamehash}{b227989bae0507d91a2ed598db7fd310}
-      \strng{authornamehash}{b227989bae0507d91a2ed598db7fd310}
-      \strng{authorfullhash}{b227989bae0507d91a2ed598db7fd310}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Linux Bible Ninth Edition, The comprehensive, tutorial resource.}
-      \field{year}{2005}
-    \endentry
-    \entry{JoyanesProg2008}{book}{}
-      \name{author}{1}{}{%
-        {{hash=5d1807ca7212045603a713fe86973914}{%
-           family={Aguilar},
-           familyi={A\bibinitperiod},
-           given={Luis\bibnamedelima Joyanes},
-           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \strng{namehash}{5d1807ca7212045603a713fe86973914}
-      \strng{fullhash}{5d1807ca7212045603a713fe86973914}
-      \strng{bibnamehash}{5d1807ca7212045603a713fe86973914}
-      \strng{authorbibnamehash}{5d1807ca7212045603a713fe86973914}
-      \strng{authornamehash}{5d1807ca7212045603a713fe86973914}
-      \strng{authorfullhash}{5d1807ca7212045603a713fe86973914}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Fundamentos de Programación.}
-      \field{year}{2008}
     \endentry
     \entry{GuidesGitHub:2018:online}{online}{}
       \name{author}{1}{}{%
@@ -371,8 +483,8 @@
       \strng{authorbibnamehash}{5d127ed73298e64f703ac9581f33428d}
       \strng{authornamehash}{5d127ed73298e64f703ac9581f33428d}
       \strng{authorfullhash}{5d127ed73298e64f703ac9581f33428d}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{GitHub Guides}
@@ -398,8 +510,8 @@
       \strng{authorbibnamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
       \strng{authornamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
       \strng{authorfullhash}{f7ff92d9412041e5d320a0a7f35dc06a}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{HTML5 Tutorial}
@@ -425,8 +537,8 @@
       \strng{authorbibnamehash}{439cdcafe6c075db688c23df3c9d23d9}
       \strng{authornamehash}{439cdcafe6c075db688c23df3c9d23d9}
       \strng{authorfullhash}{439cdcafe6c075db688c23df3c9d23d9}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{JavaScript.com by Pluralsight}
@@ -452,8 +564,8 @@
       \strng{authorbibnamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
       \strng{authornamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
       \strng{authorfullhash}{f7ff92d9412041e5d320a0a7f35dc06a}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{JavaScript Tutorial}
@@ -492,35 +604,6 @@
       \endverb
       \verb{url}
       \verb https://docs.python.org/3/tutorial/index.html
-      \endverb
-    \endentry
-    \entry{IntroPython2008}{book}{}
-      \name{author}{1}{}{%
-        {{hash=3d4982aec936bef23d1187d192a7c0eb}{%
-           family={Marzal\bibnamedelima Andrés},
-           familyi={M\bibinitperiod\bibinitdelim A\bibinitperiod},
-           given={Gracia\bibnamedelima Pedro},
-           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
-           suffix={Gracia\bibnamedelima Isabel},
-           suffixi={G\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
-      }
-      \strng{namehash}{3d4982aec936bef23d1187d192a7c0eb}
-      \strng{fullhash}{3d4982aec936bef23d1187d192a7c0eb}
-      \strng{bibnamehash}{3d4982aec936bef23d1187d192a7c0eb}
-      \strng{authorbibnamehash}{3d4982aec936bef23d1187d192a7c0eb}
-      \strng{authornamehash}{3d4982aec936bef23d1187d192a7c0eb}
-      \strng{authorfullhash}{3d4982aec936bef23d1187d192a7c0eb}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Introducción a la programación con Python 3}
-      \field{year}{2014}
-      \verb{urlraw}
-      \verb http://repositori.uji.es/xmlui/handle/10234/102653?locale-attribute=es
-      \endverb
-      \verb{url}
-      \verb http://repositori.uji.es/xmlui/handle/10234/102653?locale-attribute=es
       \endverb
     \endentry
   \enddatalist
