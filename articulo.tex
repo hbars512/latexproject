@@ -109,7 +109,8 @@ muchos futuros ingenieros.
 \begin{figure}[t!]
    \centering
    \includegraphics[width=2.5in]{tec_web}
-   \caption{Lenguajes, sistemas y tecnologías Web}\label{ref:FiguraA}
+   \caption{Lenguajes, sistemas y tecnologías Web}
+   \label{fig:tecnologia_web}
 \end{figure}
 
 La mayor parte de la programación está relacionada con la Web y es que la
@@ -117,8 +118,7 @@ programación web es muy interesante y amplia, el hecho de que el lenguaje de
 programación más popular y usado sea JavaScript, que es el lenguaje que nos
 permite interactuar con los navegadores Web, no hace más que confirmar lo
 anteriormente mencionado, es por ésto que es importante conocer un poco más la
-esencia de la Web en la actualidad. 
-
+esencia de la Web en la actualidad.
 
 El objetivo principal de este breve artículo no es solo el de informar qué
 tecnologías web son a las que podemos apuntar aprender sino el de instar a
@@ -195,7 +195,8 @@ Pseudocódigo\cite{JoyanesProg2008}.
 \begin{figure}[ht]
    \centering
    \includegraphics[width=2.5in]{git_logo}
-   \caption{Sistema de Control de Versiones Git}\label{ref:FiguraA}
+   \caption{Sistema de Control de Versiones Git}
+   \label{fig:git_sistema}
 \end{figure}
 
 El Software Libre es el software que respeta la libertad del usuario y la
@@ -220,7 +221,8 @@ común\cite{StallmanFS2004}.
 \begin{figure}[ht]
    \centering
    \includegraphics[width=2.5in]{gnu_stallman}
-   \caption{Proyecto GNU - Richard Stallman}\label{ref:FiguraA}
+   \caption{Proyecto GNU - Richard Stallman}
+   \label{fig:stallman_gnu}
 \end{figure}
 
 Las tecnologías web que tienen mayor éxito son las que tienen detrás una
@@ -300,6 +302,119 @@ organizaciones finalciales que tienen trillones de dólares corriendo sobre la
 velocidad y seguridad de sus sitemas operativos que dependen fuertemente de
 Linux\cite{ChrisNegusLinux2005}.
 \newline
+
+\section{Rutas de aprendizaje}
+Si se analiza, en la actualidad hay dos mundos que coexisten en el desarrollo
+web: Fronted y Backend.\\
+Entonces al ingresar a la programación Web se puede acceder a dos rutas de
+aprendizaje: Fronted o Backend.\\
+
+Si aprendes Fronted serás un Fronted Developer. 
+¿Qué significa ser Fronted Developer? Significa ser un desarrollador capaz de
+convertir en real un diseño de UX/UI (User Experiencie / Use Interface) y
+programar la reacción ante la interacción que pueda tener el usuario dentro de
+la web y además conocer bien cómo recibir y enviar datos del servidor
+(backend). Fronted es más rápido de aprender que Backend, pero no
+necesariamente lo más fácil.\\
+
+Si aprendes Backend serás un Backend Developer.
+Un desarollador Backend es un programador que trabaja del lado del servidor.
+Permitiendo que todo lo que vemos cuando interactuamos con una aplicación o
+sitio web, funcione. Dicho de una forma más informal, es el que trabaja detrás
+del escenario, moviendo los hilos para que todo salga bien.
+Ahora hay una ruta que se abre si eliges el camino del Backend y es la del
+DevOps que viene de Development Operations. ¿Qué es DevOps? Es un camino para
+implementar Software con esfuerzo y responsabilidad compartida, así un DevOps
+Developer conoce el cómo implementar un software, su ciclo de vida y
+mantenimiento, actualmente es un cargo de moda que se requiere mucho en la
+industria y profesionales con éste perfil tienen muchos beneficios
+financieros.\\
+
+
+\subsection{Fronted}
+Existen tres tecnologías pilares en la parte Fronted de la programación Web,
+tenemos: HTML, CSS, JavaScript.\\
+HTML es un lenguaje de marcado para la elaboración de páginas Web. Es un
+estándar que está a cargo del \textit{World Wide Consortium} (W3C). HTML
+permite organizar la información, para eso usa etiquetas, atributos y valores.
+En HTML5 se cuenta con etiquetas que dan significado a una porción de
+información útil para buscadores como Google, así Google va directo a la
+información contenida dentro de una etiqueta y la interpreta de forma
+inteligente, esto le sirve por ejemplo para clasificar las páginas web por su
+contenido, encontrar imágenes y videos, y destacar la información importante
+que ofrece la página al momento de hacer una búsqueda, ésto se denomina Web
+semántica.\\
+Una etiqueta se inicia con el signo ``$<$'' y se finaliza con ``$>$''. Dentro
+de una etiqueta va su nombre y también pueden ir atributos que a su vez pueden
+tener valores.\\
+Podemos ver en la imagen ~\ref{fig:html_etiquetado} un ejemplo de cómo se vería
+un esquema html básico. HTML se puede aprender gratis visitando la siguiente
+documentación \cite{HTMLw3:2018:online}.
+
+\begin{figure}[ht]
+   \centering
+   \includegraphics[width=2.5in]{html}
+   \caption{Etiquetado en HTML}
+   \label{fig:html_etiquetado}
+\end{figure}
+
+Al inicio todo el mundo Web estaba hecho solo con HTML; sin embargo dar estilo
+a una página Web para hacerla ver más atractiva y organizada era muy complicado
+de hacer solo usando HTML, es por eso que surge CSS. Actualmente ya no se da
+estilo a una página web usando HTML ya que éste se dedica solo al estructurado
+de la información.
+CSS (Cascading Style Sheets) es un lenguaje de diseño gráfico para definir y
+crear la presentación de un documento estructurado como HTML. CSS funciona con
+el uso de selectores (de etiquetas HTML, id o clases), propiedades que adoptan
+valores como podemos ver en la imagen ~\ref{fig:css_ejemplo}.\\
+Es necesario practicar bastante el lenguaje CSS realizando muchos proyectos
+hasta que se llegue a un punto en el que se puede realizar un diseño y
+maquetarlo ``en términos de CSS''; también es recomendable relacionarse con
+diseñadores, hablar de diseño, entender el diseño hasta que se adquiera un
+gusto de diseñador, ésto último no es necesario pero si marca diferencia al
+momento de crear interfaces de usuario amigables, atractivos que otorguen una
+experiencia positiva al usuario.\\
+CSS por otro lado es muy importante en la actualidad porque permite un
+desarrollo con el llamado ``\textit{Responsive Design}'', que hace que nuestro
+diseño se adapte a diferentes dispositivos con diferente tamaño de pantalla.
+Así con el uso de modulos como: \textit{Media query}, \textit{Flexbox},
+\textit{Grid}, etc. Podemos definir una disposición en una pantalla de 48
+pulgadas y otra en un dispositivo Smartphone, el diseño se adapta.\\
+
+HTML y CSS no son lenguajes de programación como lo es JavaScript. JavaScript
+es un lenguaje de programación que nos permite interactuar con el navegador.
+Nos brinda la posibilidad de otorgarle a nuestra página web interactividad. Los
+paneles desplegables, las ventanas emergentes, los slides o imagenes que se
+mueven, etc.\\
+Si has elegido el camino del Fronted, el primer lenguaje recomendable de
+aprender es JavaScript, porque es un lenguaje fácil y muy versátil, hoy en día
+está en casi todos lados: Sistemas Operativos, Desarrollo móvil, servidores de
+Internet, base de datos, plataformas de juegos, administración de sistemas,
+tanto Linux como Windows y si nos centramos en la web incluso se puede usar
+JavaScript como el único lenguaje de programación, desde el cliente hasta el
+servidor pasando por la base de datos. El famos stack MEAN (MongoDB + Express +
+AngularJS + NodeJS) utiliza JavaScript como único lenguaje.
+Puedes visitar la siguiente documentación para estudiar JavaScript, que por
+cierto no tiene nada que ver con Java excepto el nombre
+\cite{JavaScriptw3:2018:online} \cite{PluralsightJavaScript:2018:online}.
+Una vez ya aprendiste lo básico de JavaScript puedes iniciar con el uso de
+Frameworks de JavaScript como AngularJS si te gusta Java o React JS si
+prefieres PHP o últimamente se está popularizando más VueJS que es un framework
+enteramente mantenido por la comunidad a diferencia de AngularJS que es
+mantenido por Google o React que es mantenido por Facebook.
+
+\begin{figure}[ht]
+   \centering
+   \includegraphics[width=2.5in]{css_ejemplo}
+   \caption{Selectores y propiedades en CSS}
+   \label{fig:css_ejemplo}
+\end{figure}
+
+
+
+
+
+
 
 
 

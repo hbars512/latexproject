@@ -1,16 +1,16 @@
 [0] Config.pm:302> INFO - This is Biber 2.9
 [0] Config.pm:305> INFO - Logfile is 'articulo.blg'
-[53] biber:313> INFO - === Mon Nov 12, 2018, 09:10:04
-[140] Biber.pm:371> INFO - Reading 'articulo.bcf'
-[230] Biber.pm:857> INFO - Found 22 citekeys in bib section 0
-[272] Biber.pm:3981> INFO - Processing section 0
-[322] Biber.pm:4154> INFO - Looking for bibtex format file 'Bibliography.bib' for section 0
-[324] bibtex.pm:1468> INFO - LaTeX decoding ...
-[349] bibtex.pm:1294> INFO - Found BibTeX data source 'Bibliography.bib'
-[351] Utils.pm:169> WARN - Possible typo (case mismatch) between datasource keys: 'WebDev:2018:online' and 'webdev:2018:online' in file 'Bibliography.bib'
-[492] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[492] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[492] Biber.pm:3809> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
-[516] bbl.pm:617> INFO - Writing 'articulo.bbl' with encoding 'UTF-8'
-[529] bbl.pm:720> INFO - Output to articulo.bbl
-[529] Biber.pm:110> INFO - WARNINGS: 1
+[55] biber:313> INFO - === Fri Nov 16, 2018, 20:45:21
+[82] Biber.pm:371> INFO - Reading 'articulo.bcf'
+[171] Biber.pm:857> INFO - Found 22 citekeys in bib section 0
+[191] Biber.pm:3981> INFO - Processing section 0
+[209] Biber.pm:4154> INFO - Looking for bibtex format file 'Bibliography.bib' for section 0
+[211] bibtex.pm:1468> INFO - LaTeX decoding ...
+[234] bibtex.pm:1294> INFO - Found BibTeX data source 'Bibliography.bib'
+[236] Utils.pm:169> WARN - Possible typo (case mismatch) between datasource keys: 'WebDev:2018:online' and 'webdev:2018:online' in file 'Bibliography.bib'
+[389] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[390] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[390] Biber.pm:3809> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[413] bbl.pm:617> INFO - Writing 'articulo.bbl' with encoding 'UTF-8'
+[424] bbl.pm:720> INFO - Output to articulo.bbl
+[424] Biber.pm:110> INFO - WARNINGS: 1

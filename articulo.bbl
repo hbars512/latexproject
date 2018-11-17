@@ -260,6 +260,87 @@
       \field{title}{Linux Bible Ninth Edition, The comprehensive, tutorial resource.}
       \field{year}{2005}
     \endentry
+    \entry{HTMLw3:2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f7ff92d9412041e5d320a0a7f35dc06a}{%
+           family={Data},
+           familyi={D\bibinitperiod},
+           given={Refsnes},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{fullhash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{bibnamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{authorbibnamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{authornamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{authorfullhash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{HTML5 Tutorial}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.w3schools.com/html/
+      \endverb
+      \verb{url}
+      \verb https://www.w3schools.com/html/
+      \endverb
+    \endentry
+    \entry{JavaScriptw3:2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f7ff92d9412041e5d320a0a7f35dc06a}{%
+           family={Data},
+           familyi={D\bibinitperiod},
+           given={Refsnes},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{fullhash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{bibnamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{authorbibnamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{authornamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \strng{authorfullhash}{f7ff92d9412041e5d320a0a7f35dc06a}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{JavaScript Tutorial}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.w3schools.com/js/default.asp
+      \endverb
+      \verb{url}
+      \verb https://www.w3schools.com/js/default.asp
+      \endverb
+    \endentry
+    \entry{PluralsightJavaScript:2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=439cdcafe6c075db688c23df3c9d23d9}{%
+           family={Jim\bibnamedelima Cooper},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Barry\bibnamedelima Luijbregts},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{439cdcafe6c075db688c23df3c9d23d9}
+      \strng{fullhash}{439cdcafe6c075db688c23df3c9d23d9}
+      \strng{bibnamehash}{439cdcafe6c075db688c23df3c9d23d9}
+      \strng{authorbibnamehash}{439cdcafe6c075db688c23df3c9d23d9}
+      \strng{authornamehash}{439cdcafe6c075db688c23df3c9d23d9}
+      \strng{authorfullhash}{439cdcafe6c075db688c23df3c9d23d9}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{JavaScript.com by Pluralsight}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.javascript.com/try
+      \endverb
+      \verb{url}
+      \verb https://www.javascript.com/try
+      \endverb
+    \endentry
     \entry{pascual199012}{article}{}
       \name{author}{1}{}{%
         {{hash=e3f1e44dda32d57b14c18a958d4a05ab}{%
@@ -400,8 +481,8 @@
       \strng{authorbibnamehash}{059acf69bcde2a9d26d6664191b774a4}
       \strng{authornamehash}{059acf69bcde2a9d26d6664191b774a4}
       \strng{authorfullhash}{059acf69bcde2a9d26d6664191b774a4}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{SSH (Secure shell)}
@@ -427,8 +508,8 @@
       \strng{authorbibnamehash}{0ce13b156d7b91de682fcac6f7fa8c7a}
       \strng{authornamehash}{0ce13b156d7b91de682fcac6f7fa8c7a}
       \strng{authorfullhash}{0ce13b156d7b91de682fcac6f7fa8c7a}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Hypertext Transfer Protocol -- HTTP/1.1}
@@ -496,87 +577,6 @@
       \verb https://guides.github.com/
       \endverb
     \endentry
-    \entry{HTMLw3:2018:online}{online}{}
-      \name{author}{1}{}{%
-        {{hash=f7ff92d9412041e5d320a0a7f35dc06a}{%
-           family={Data},
-           familyi={D\bibinitperiod},
-           given={Refsnes},
-           giveni={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{f7ff92d9412041e5d320a0a7f35dc06a}
-      \strng{fullhash}{f7ff92d9412041e5d320a0a7f35dc06a}
-      \strng{bibnamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
-      \strng{authorbibnamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
-      \strng{authornamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
-      \strng{authorfullhash}{f7ff92d9412041e5d320a0a7f35dc06a}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{HTML5 Tutorial}
-      \field{year}{2018}
-      \verb{urlraw}
-      \verb https://www.w3schools.com/html/
-      \endverb
-      \verb{url}
-      \verb https://www.w3schools.com/html/
-      \endverb
-    \endentry
-    \entry{PluralsightJavaScript:2018:online}{online}{}
-      \name{author}{1}{}{%
-        {{hash=439cdcafe6c075db688c23df3c9d23d9}{%
-           family={Jim\bibnamedelima Cooper},
-           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod},
-           given={Barry\bibnamedelima Luijbregts},
-           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \strng{namehash}{439cdcafe6c075db688c23df3c9d23d9}
-      \strng{fullhash}{439cdcafe6c075db688c23df3c9d23d9}
-      \strng{bibnamehash}{439cdcafe6c075db688c23df3c9d23d9}
-      \strng{authorbibnamehash}{439cdcafe6c075db688c23df3c9d23d9}
-      \strng{authornamehash}{439cdcafe6c075db688c23df3c9d23d9}
-      \strng{authorfullhash}{439cdcafe6c075db688c23df3c9d23d9}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{JavaScript.com by Pluralsight}
-      \field{year}{2018}
-      \verb{urlraw}
-      \verb https://www.javascript.com/try
-      \endverb
-      \verb{url}
-      \verb https://www.javascript.com/try
-      \endverb
-    \endentry
-    \entry{JavaScriptw3:2018:online}{online}{}
-      \name{author}{1}{}{%
-        {{hash=f7ff92d9412041e5d320a0a7f35dc06a}{%
-           family={Data},
-           familyi={D\bibinitperiod},
-           given={Refsnes},
-           giveni={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{f7ff92d9412041e5d320a0a7f35dc06a}
-      \strng{fullhash}{f7ff92d9412041e5d320a0a7f35dc06a}
-      \strng{bibnamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
-      \strng{authorbibnamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
-      \strng{authornamehash}{f7ff92d9412041e5d320a0a7f35dc06a}
-      \strng{authorfullhash}{f7ff92d9412041e5d320a0a7f35dc06a}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{JavaScript Tutorial}
-      \field{year}{2018}
-      \verb{urlraw}
-      \verb https://www.w3schools.com/js/default.asp
-      \endverb
-      \verb{url}
-      \verb https://www.w3schools.com/js/default.asp
-      \endverb
-    \endentry
     \entry{PythonTuto:2018:online}{online}{}
       \name{author}{1}{}{%
         {{hash=5577f9d25d04b38dd73b2850bc8e320c}{%
@@ -593,8 +593,8 @@
       \strng{authorbibnamehash}{5577f9d25d04b38dd73b2850bc8e320c}
       \strng{authornamehash}{5577f9d25d04b38dd73b2850bc8e320c}
       \strng{authorfullhash}{5577f9d25d04b38dd73b2850bc8e320c}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Python Tutorial}
