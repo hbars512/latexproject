@@ -1936,25 +1936,10 @@
     <bcf:citekey order="10">HTMLw3:2018:online</bcf:citekey>
     <bcf:citekey order="11">JavaScriptw3:2018:online</bcf:citekey>
     <bcf:citekey order="12">PluralsightJavaScript:2018:online</bcf:citekey>
-    <bcf:citekey order="13">pascual199012</bcf:citekey>
-    <bcf:citekey order="14">mycite2016</bcf:citekey>
-    <bcf:citekey order="15">Chavez-Campos2016</bcf:citekey>
-    <bcf:citekey order="16">webdev:2018:online</bcf:citekey>
-    <bcf:citekey order="17">SergioLujan2001</bcf:citekey>
-    <bcf:citekey order="18">NataliaVazquezWeb2007</bcf:citekey>
-    <bcf:citekey order="19">WebDev:2018:online</bcf:citekey>
-    <bcf:citekey order="20">ScottBenGit2014</bcf:citekey>
-    <bcf:citekey order="21">Ssh:2018:online</bcf:citekey>
-    <bcf:citekey order="22">HTTP:2018:online</bcf:citekey>
-    <bcf:citekey order="23">HTTPS:2018:online</bcf:citekey>
-    <bcf:citekey order="24">ChrisNegusLinux2005</bcf:citekey>
-    <bcf:citekey order="25">JoyanesProg2008</bcf:citekey>
-    <bcf:citekey order="26">GuidesGitHub:2018:online</bcf:citekey>
-    <bcf:citekey order="27">HTMLw3:2018:online</bcf:citekey>
-    <bcf:citekey order="28">PluralsightJavaScript:2018:online</bcf:citekey>
-    <bcf:citekey order="29">JavaScriptw3:2018:online</bcf:citekey>
-    <bcf:citekey order="30">PythonTuto:2018:online</bcf:citekey>
-    <bcf:citekey order="31">IntroPython2008</bcf:citekey>
+    <bcf:citekey order="13">PythonTuto:2018:online</bcf:citekey>
+    <bcf:citekey order="14">IntroPython2008</bcf:citekey>
+    <bcf:citekey order="15">Python3Descubierto</bcf:citekey>
+    <bcf:citekey order="16">IntroPython2008</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

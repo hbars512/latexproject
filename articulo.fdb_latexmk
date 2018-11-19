@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber articulo"] 1542419120 "articulo.bcf" "articulo.bbl" "articulo" 1542419235
+["biber articulo"] 1542629297 "articulo.bcf" "articulo.bbl" "articulo" 1542630121
   "Bibliography.bib" 1541878673 4984 14e75c9fdd62de9b49cdeb40c167aa6d ""
-  "articulo.bcf" 1542419234 89357 2942d562d009a3e0e0c2e212a407c679 ""
+  "articulo.bcf" 1542630120 88437 0de375c20491bb2e679cb34e3faab675 ""
   (generated)
-  "articulo.bbl"
   "articulo.blg"
-["latex"] 1542419232 "articulo.tex" "articulo.dvi" "articulo" 1542419235
+  "articulo.bbl"
+["latex"] 1542630117 "articulo.tex" "articulo.dvi" "articulo" 1542630121
   "/etc/texmf/web2c/texmf.cnf" 1538410848 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1480098689 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -88,20 +88,20 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/web2c/pdftex/latex.fmt" 1539404621 4127480 9af622149c80fa5802cada478459eb06 ""
-  "articulo.aux" 1542419234 7132 26cc15eb198d5c497aabbae7f0b786ff ""
-  "articulo.bbl" 1542419122 25087 eb43ca630099d4db0d2ff4ef45bae9e6 "biber articulo"
-  "articulo.out" 1542419234 387 e94e21062b34ed8021b2bd7f044b108f ""
-  "articulo.run.xml" 1542419234 2432 72d60e58ce28eff93c6a75e8ab38d63b ""
-  "articulo.tex" 1542419224 24278 db3636e90155dbb783bfc5cb4f4e4101 ""
+  "articulo.aux" 1542630120 5617 71b62112f938945509b95f7dbf953fdd ""
+  "articulo.bbl" 1542629298 15964 18f3f176a133edc11768f5ba5c7814dc "biber articulo"
+  "articulo.out" 1542630120 344 90dae6cd2f83de23f9474a83c8a20bc1 ""
+  "articulo.run.xml" 1542630120 2432 72d60e58ce28eff93c6a75e8ab38d63b ""
+  "articulo.tex" 1542630110 29213 25a7c64d4cb640c8dfa2910c50fff63b ""
   "css_ejemplo" 0 -1 0 ""
   "git_logo" 0 -1 0 ""
   "gnu_stallman" 0 -1 0 ""
   "html" 0 -1 0 ""
   "tec_web" 0 -1 0 ""
   (generated)
-  "articulo.out"
+  "articulo.bcf"
   "articulo.aux"
+  "articulo.run.xml"
+  "articulo.out"
   "articulo.dvi"
   "articulo.log"
-  "articulo.bcf"
-  "articulo.run.xml"

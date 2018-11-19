@@ -397,11 +397,22 @@ AngularJS + NodeJS) utiliza JavaScript como único lenguaje.
 Puedes visitar la siguiente documentación para estudiar JavaScript, que por
 cierto no tiene nada que ver con Java excepto el nombre
 \cite{JavaScriptw3:2018:online} \cite{PluralsightJavaScript:2018:online}.
-Una vez ya aprendiste lo básico de JavaScript puedes iniciar con el uso de
-Frameworks de JavaScript como AngularJS si te gusta Java o React JS si
-prefieres PHP o últimamente se está popularizando más VueJS que es un framework
-enteramente mantenido por la comunidad a diferencia de AngularJS que es
-mantenido por Google o React que es mantenido por Facebook.
+Una vez ya aprendiste lo básico de HTML, CSS y JavaScript puedes iniciar en el
+uso de Frameworks.\\
+Inicialmente aparecieron Frameworks de CSS entre las cuales
+aún es muy usada una que fue creada por un empleado de Twitter: Bootstrap4.
+Este framework tiene plantillas que permiten crear páginas usando Flexbox de
+CSS e incluye JavaScript manipulando solamente HTML, esto facilita mucho el
+trabajo y muchos prototipos nacen con este Framework.
+Luego se empezaron a popularizar otros frameworks pero esta vez de JavaScript y
+actualmente tenemos como opciones las siguientes: AngularJS, React JS y Vue JS.
+AngularJS es un proyecto que cuenta con soporte de Google, tiene una curva de
+aprendizaje elevada pero una vez se logra dominarla te permite crear
+rápidamente plataformas muy adaptables y eficientes. React JS, fue creado por
+Facebook y también es muy popular entre los programadores, de igual manera es
+muy práctico y cumple su cometido, la plataforma Facebook está creada usando
+este Framework. Vue JS, es un proyecto que tiene soporte enteramente de la
+comunidad y está teniendo mucho eco en los últimos años.
 
 \begin{figure}[ht]
    \centering
@@ -410,37 +421,73 @@ mantenido por Google o React que es mantenido por Facebook.
    \label{fig:css_ejemplo}
 \end{figure}
 
+\subsection{Backend}
+El backend comprende a los servidores y a los lenguajes de programación que
+trabajan sobre éstos servidores. Los servidores nos permiten controlar
+servicios y realizar procesamiento incluyen base de datos y mensajes entre
+servidores y servicios.
+Lo básico incluye los lenguajes de programación que necesitarás conocer para
+trabajar sobre servidores web, puedes escoger entre los siguientes lenguajes:
+Ruby, NodeJS, Python, PHP7. \textbf{Ruby} es un lenguaje de programación
+bastante usado y si nos enfocamos en este lenguaje entonces podremos una vez
+aprendido a manejar el lenguaje usar su framework más popular llamado Rails
+"Ruby on Rails" que nos permite realizar los proyectos de una forma más
+estructurada, también es importante manejar el testing del lenguaje llamado
+Rspec que nos permite realizar pruebas de unidad y probar funcionalidad,
+finalmente su package mánager llamado RubyGems que nos permiten administrar los
+paquetes y dependencias que nos permite añadir a nuestro proyecto paquetes
+externos.  \textbf{NodeJS}, no es un lenguaje de programación sino que es un
+software que nos permite implementar código de JavaScript en nuestro servidor,
+es conveniente su uso ya que con unas cuantas líneas de código en JavaScript
+podemos montar un pequeño servidor Web y a administrarlo de la forma que lo
+harías con otro lenguaje más "complejo", su framework más recomendado es
+Express ya que a través de sus módulos que nos brindan muchas funcionalidades
+podemos crear servicios, Apis, servidores web muy fáciles, en cuanto al testing
+tenemos a Mocha que igual que con Ruby nos permite probar nuestro código y su
+funcionalidad, en cuanto a sistema de paquetería tenemos algo llamado npm que
+nos permite administrar paquetería de manera muy fácil a través de línea de
+comandos. \textbf{Python}, tenemos al framework Django nos permite implementar
+de forma muy sencilla la administración de servicios y base de datos ya que
+python es un lenguaje muy fácil de aprender e implementar, su testing se
+realiza con Pytest y su package manager se llama pip igual su uso es en línea
+de comandos \cite{PythonTuto:2018:online} \cite{IntroPython2008}
+\cite{Python3Descubierto} \cite{IntroPython2008}.  \textbf{PHP7}, es la versión
+actual tiene como framework recomendado a Laravel para poder implementar
+proyecto de calidad con PHP, su testing es realizado ocn PHPUNIT y su package
+manager es llamado Composer para la administración de tus paquetes y
+dependencias externas.  Algunos otros lenguajes que podemos optar aprender está
+C\# que está vinculado con .Net, y también Java.\\
+Luego de aprender un lenguaje de programación, su framework y saber manejar su
+paquetería y testing, entonces podemos aprender a manejar algo llamado
+\textbf{Negociador de mensajes} y es recomendable uno que tiene nombre RabbitMQ
+que nos permite comunicar servicios. La comunicación entre servicios y backend
+y fronted se realiza con archivos llamados JSON.\\
+El almacenamiento podemos dividirlo en Cache y Base de datos. \textbf{Cache},
+es una memoria que permite acceder a sus información de forma rápida en éste
+apartado podemos usar REDIS que es un motor de base de datos pero que nos
+permite administrar la cache. \textbf{Base de datos}, nos permite almacenar
+datos en forma estructurado o no, tenemos las bases de datos relacionales (sql)
+o las no relacionales (no sql); en base de datos relacionales tenemos: Mysql,
+MariaDB, Oracle; en base de datos no relacionales tenemos MongoDB que
+básicamente contiene una estructura que puede contener información a diferentes
+niveles de anidación dependiendo si un objeto contenido tiene propiedades o una
+colección de objetos.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-\section{Requerimientos necesarios}
-Al formarse como programador Web es necesario escoger una ruta, ya que para
-dedicarse a esta rama de la informática incluso hay que especializarse. Se
-puede elegir entre dos caminos o rutas: Fronted y Backend, pero antes de entrar
-en detalle de estas dos ruta es necesario conocer algunas herramientas y
-fundamentos que nos ayudarán sin importar cual sea el camino que hayamos
-elegido.
-\subsection{Git - Sistema de control de versiones}
-\cite{pascual199012}\cite{mycite2016}\cite{Chavez-Campos2016}\cite{webdev:2018:online}\cite{SergioLujan2001}\cite{NataliaVazquezWeb2007}\cite{WebDev:2018:online}\cite{ScottBenGit2014}\cite{Ssh:2018:online}\cite{HTTP:2018:online}\cite{HTTPS:2018:online}\cite{ChrisNegusLinux2005}\cite{JoyanesProg2008}\cite{GuidesGitHub:2018:online}\cite{HTMLw3:2018:online}\cite{PluralsightJavaScript:2018:online}\cite{JavaScriptw3:2018:online}\cite{PythonTuto:2018:online}\cite{IntroPython2008}
+\section{Conclusiones}
+Aprender todas estas tecnologías nos van a servir para poder llevar a cabo un
+proyecto, hay que comprender que la tecnología cambia a un ritmo acelerado,
+mucho de lo que aprendemos deja de ser usado y cambiado por algo diferente, es
+necesario estar siempre actualizado con las tendencias, ya que nuestros
+proyectos tienen que estar a la vanguardia sino estarán condenados al fracaso.\\
+Es necesario también recordar que la programación al ser apasionante no es un
+fin sí mismo sino mas bien una herramienta que nos permite crear soluciones,
+por lo tanto es importante conocer la problemática de nuestra sociedad,
+relacionarnos con otros profesionales de la salud, psicología, administración,
+sociología, química, eléctrica, etc. Esto puede darnos la experiencia necesaria para
+crear proyectos que realmente sean útiles y de impacto con la programación,
+dicho también que si eres no eres un profesional de Ingeniería de Software o
+Sistemas y aprendes a programar podrás crear cosas muy interesantes
+relacionadas con tu carrera.
 
 
 \printbibliography
