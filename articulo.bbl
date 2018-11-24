@@ -391,6 +391,62 @@
       \field{title}{Python 3 al descubierto}
       \field{year}{2012}
     \endentry
+    \entry{EncuestaJS2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f2d93bc6f928b09abbc4166e13498c81}{%
+           family={Sacha\bibnamedelima Greif},
+           familyi={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Michael\bibnamedelima Rambeau},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           suffix={Raphael\bibnamedelima Benitte},
+           suffixi={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{f2d93bc6f928b09abbc4166e13498c81}
+      \strng{fullhash}{f2d93bc6f928b09abbc4166e13498c81}
+      \strng{bibnamehash}{f2d93bc6f928b09abbc4166e13498c81}
+      \strng{authorbibnamehash}{f2d93bc6f928b09abbc4166e13498c81}
+      \strng{authornamehash}{f2d93bc6f928b09abbc4166e13498c81}
+      \strng{authorfullhash}{f2d93bc6f928b09abbc4166e13498c81}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The State of JavaScript 2018}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://2018.stateofjs.com/
+      \endverb
+      \verb{url}
+      \verb https://2018.stateofjs.com/
+      \endverb
+    \endentry
+    \entry{GoogleTrends2018:online}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f5e617197d513574692955ecc6e3cef0}{%
+           family={Google},
+           familyi={G\bibinitperiod},
+           given={Google},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5e617197d513574692955ecc6e3cef0}
+      \strng{fullhash}{f5e617197d513574692955ecc6e3cef0}
+      \strng{bibnamehash}{f5e617197d513574692955ecc6e3cef0}
+      \strng{authorbibnamehash}{f5e617197d513574692955ecc6e3cef0}
+      \strng{authornamehash}{f5e617197d513574692955ecc6e3cef0}
+      \strng{authorfullhash}{f5e617197d513574692955ecc6e3cef0}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{React, Angular, Vue.js - Google Trends}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://trends.google.es/trends/explore?q=%2Fm%2F012l1vxv,%2Fm%2F0j45p7w,%2Fg%2F11c0vmgx5d
+      \endverb
+      \verb{url}
+      \verb https://trends.google.es/trends/explore?q=%2Fm%2F012l1vxv,%2Fm%2F0j45p7w,%2Fg%2F11c0vmgx5d
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

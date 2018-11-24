@@ -1940,6 +1940,8 @@
     <bcf:citekey order="14">IntroPython2008</bcf:citekey>
     <bcf:citekey order="15">Python3Descubierto</bcf:citekey>
     <bcf:citekey order="16">IntroPython2008</bcf:citekey>
+    <bcf:citekey order="17">EncuestaJS2018:online</bcf:citekey>
+    <bcf:citekey order="18">GoogleTrends2018:online</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
